@@ -1,0 +1,74 @@
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('1', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije
+Mentor: Prof. dr. sc. Denis Pelin
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.)
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u p', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '53943536946');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('2', 'Tema za diplomski rad', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije
+Mentor: Prof. dr. sc. Denis Pelin
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.)
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u p', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '79343687407');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('3', 'Tema za diplomski rad &#8211; API za aplikaciju za planiranje izleta', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije
+Mentor: Prof. dr. sc. Denis Pelin
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.)
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u p', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '47726994562');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('4', 'Tema za diplomski rad &#8211; Informatičko-komunikacijske tehnologije u funkciji prodaje poljoprivrednih proizvoda', 'NASLOV: Emulacija energetskog pretvarača za baterijske spremnike energije
+Mentor: Prof. dr. sc. Denis Pelin
+Sumentor: Kristijan Lolić (Rimac Automobili d.o.o.)
+ZADATAK: Pregled energetskih pretvarača za baterijske spremnike. Razvoj simulacijskog moela u p', 'https://stup.ferit.hr/2021/01/29/tema-za-diplomski-rad-2/', '47726994562');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('5', 'Teme za diplomske radove', 'Rad na temu &#8220;Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka&#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+U teorijskom dijelu diplomskog rada potrebno je analizirati i', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '53943536946');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('6', 'Strategije za smanjenje gubitaka u distributivnoj mreži 35 kV DP Elektroslavonije Osijek', 'Rad na temu &#8220;Web trgovina za prodaju sportske opreme zasnovana na sustavu personaliziranih preporuka&#8221; sumentorirat će prof.dr.sc. Goran Martinović (FERIT) i Ivan Matozan (Inchoo).  
+U teorijskom dijelu diplomskog rada potrebno je analizirati i', 'https://stup.ferit.hr/2021/01/21/tema-za-diplomski-rad/', '95494259952');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('7', '3.	Projektiranje sustava dojave požara &#8211; zakonski, ekonomski i tehnički aspekti', 'Zadatak rada je analizirati važnost sustava dojave požara, zakonsku regulativu, ekonomski aspekt ugradnje sustava te na primjeru iz prakse dati prijedlog rješenja ugradnje ovakvog sustava. Tema se nudi studentima stručnog studija ili preddiplomskog studij', 'https://stup.ferit.hr/2020/01/29/3-projektiranje-sustava-dojave-pozara-zakonski-ekonomski-i-tehnicki-aspekti/', '05128411490');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('8', '2.	Optimiziranje opće rasvjete radnih prostora obrazovne ustanove i usklađivanje s odgovarajućom normom', 'Zadatak rada je analizirati važnost sustava dojave požara, zakonsku regulativu, ekonomski aspekt ugradnje sustava te na primjeru iz prakse dati prijedlog rješenja ugradnje ovakvog sustava. Tema se nudi studentima stručnog studija ili preddiplomskog studij', 'https://stup.ferit.hr/2020/01/29/3-projektiranje-sustava-dojave-pozara-zakonski-ekonomski-i-tehnicki-aspekti/', '05128411490');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('9', '1.	Ekonomski i tehnički aspekti sigurnosne rasvjete &#8211; označavanja i osvjetljavanja evakuacijskih puteva', 'Zadatak rada je analizirati važnost sustava dojave požara, zakonsku regulativu, ekonomski aspekt ugradnje sustava te na primjeru iz prakse dati prijedlog rješenja ugradnje ovakvog sustava. Tema se nudi studentima stručnog studija ili preddiplomskog studij', 'https://stup.ferit.hr/2020/01/29/3-projektiranje-sustava-dojave-pozara-zakonski-ekonomski-i-tehnicki-aspekti/', '05128411490');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('10', 'Tema za diplomski u suradnji s tvrtkom Inchoo', 'Zadatak rada je analizirati važnost sustava dojave požara, zakonsku regulativu, ekonomski aspekt ugradnje sustava te na primjeru iz prakse dati prijedlog rješenja ugradnje ovakvog sustava. Tema se nudi studentima stručnog studija ili preddiplomskog studij', 'https://stup.ferit.hr/2020/01/29/3-projektiranje-sustava-dojave-pozara-zakonski-ekonomski-i-tehnicki-aspekti/', '79343687407');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('11', 'Diplomski radovi u suradnji s tvrtkom Institut RT-RK Osijek', 'Zadatak rada je analizirati zatečeno stanje rasvjete u objektu obrazovne ustanove, dati smjernice za optimizaciju i poboljšanje u skladu s odgovarajućom normom. Potrebno je analizirati potrošnju električne energije postojeće rasvjete i ukazati na ekonomsk', 'https://stup.ferit.hr/2020/01/29/2-optimiziranje-opce-rasvjete-radnih-prostora-obrazovne-ustanove-i-uskladivanje-s-odgovarajucom-normom/', '87006187287');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('12', 'Tema za diplomski/završni rad-Uvođenje solarnih izvora energije, te rekonstrukcija rasvjete LED tehnologijom', 'Zadatak rada je analizirati zatečeno stanje rasvjete u objektu obrazovne ustanove, dati smjernice za optimizaciju i poboljšanje u skladu s odgovarajućom normom. Potrebno je analizirati potrošnju električne energije postojeće rasvjete i ukazati na ekonomsk', 'https://stup.ferit.hr/2020/01/29/2-optimiziranje-opce-rasvjete-radnih-prostora-obrazovne-ustanove-i-uskladivanje-s-odgovarajucom-normom/', '53535248695');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('13', 'Teme za diplomske radove 3.dio', 'ZADATAK: Istražiti SoC algoritme u literaturi s naglaskom na Kalman filtriranje. Odabrani algoritam implementirati na Xilinx FPGA razvojnom sustavu i Vivado programskoj podršci te mjeriti vremena izvođenja.
+Mentor: Tomislav Matić (ZRIA)
+Mentor iz Rimac Au', 'https://stup.ferit.hr/2019/01/28/teme-za-diplomske-radove-3-dio/', '53943536946');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('14', 'Teme za diplomske radove 2.dio', 'ZADATAK: Istražiti SoC algoritme u literaturi s naglaskom na Kalman filtriranje. Odabrani algoritam implementirati na Xilinx FPGA razvojnom sustavu i Vivado programskoj podršci te mjeriti vremena izvođenja.
+Mentor: Tomislav Matić (ZRIA)
+Mentor iz Rimac Au', 'https://stup.ferit.hr/2019/01/28/teme-za-diplomske-radove-3-dio/', '53943536946');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('15', 'Indirektne metode upravljanja momentom motora', 'ZADATAK: Istražiti SoC algoritme u literaturi s naglaskom na Kalman filtriranje. Odabrani algoritam implementirati na Xilinx FPGA razvojnom sustavu i Vivado programskoj podršci te mjeriti vremena izvođenja.
+Mentor: Tomislav Matić (ZRIA)
+Mentor iz Rimac Au', 'https://stup.ferit.hr/2019/01/28/teme-za-diplomske-radove-3-dio/', '88285726558');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('16', 'Testiranje ispravnosti rada SIMOREG tiristorskog usmjerivača', 'ZADATAK: Istražiti SoC algoritme u literaturi s naglaskom na Kalman filtriranje. Odabrani algoritam implementirati na Xilinx FPGA razvojnom sustavu i Vivado programskoj podršci te mjeriti vremena izvođenja.
+Mentor: Tomislav Matić (ZRIA)
+Mentor iz Rimac Au', 'https://stup.ferit.hr/2019/01/28/teme-za-diplomske-radove-3-dio/', '88285726558');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('17', 'Teme za diplomske radove', 'ZADATAK: Pomoću razvojnog sustava Arduino osmisliti i adaptirati sustav za upravljanje jednom granom trofaznog izmjenjivača (jednofazni izmjenjivač u polumosnom spoju). Upravljanje izvesti sinusnom pulsno-širinskom modulacijom (SPWM). Provesti analizu rad', 'https://stup.ferit.hr/2019/01/22/teme-za-diplomske-radove-2-dio/', '53943536946');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('18', 'Mjerenje parametara kvalitete električne energije i analiza sukladno Mrežnim pravilima prijenosnog sustava', 'ZADATAK: Pomoću razvojnog sustava Arduino osmisliti i adaptirati sustav za upravljanje jednom granom trofaznog izmjenjivača (jednofazni izmjenjivač u polumosnom spoju). Upravljanje izvesti sinusnom pulsno-širinskom modulacijom (SPWM). Provesti analizu rad', 'https://stup.ferit.hr/2019/01/22/teme-za-diplomske-radove-2-dio/', '13148821633');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('19', 'Ponuda završnih i diplomskih radova iz područja automatike', 'Kao i prošlih godina, tvrtka TEO-Belišće d.o.o. nudi zainteresiranim studentima su-mentoriranje završnih i diplomskih radova iz područja automatike (industrijski procesi, automatizacija postrojenja, upravljanje strojevima, PLC i HMI/SCADA aplikacije, fiel', 'https://stup.ferit.hr/2018/12/03/ponuda-zavrsnih-i-diplomskih-radova-iz-podrucja-automatike-2/', '40480660548');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('20', 'TELEMETRIJA (VODOVOD)', 'Kao i prošlih godina, tvrtka TEO-Belišće d.o.o. nudi zainteresiranim studentima su-mentoriranje završnih i diplomskih radova iz područja automatike (industrijski procesi, automatizacija postrojenja, upravljanje strojevima, PLC i HMI/SCADA aplikacije, fiel', 'https://stup.ferit.hr/2018/12/03/ponuda-zavrsnih-i-diplomskih-radova-iz-podrucja-automatike-2/', '42180001500');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('21', 'Tema diplomskog rada: Optimiranje  proizvodnje upravljivog distribuiranog izvora u distributivnoj mreži s neupravljivim distribuiranim izvorima', 'Kao i prošlih godina, tvrtka TEO-Belišće d.o.o. nudi zainteresiranim studentima su-mentoriranje završnih i diplomskih radova iz područja automatike (industrijski procesi, automatizacija postrojenja, upravljanje strojevima, PLC i HMI/SCADA aplikacije, fiel', 'https://stup.ferit.hr/2018/12/03/ponuda-zavrsnih-i-diplomskih-radova-iz-podrucja-automatike-2/', '95494259952');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('22', 'Diplomski radovi – FPGA (2 teme)', 'Kao i prošlih godina, tvrtka TEO-Belišće d.o.o. nudi zainteresiranim studentima su-mentoriranje završnih i diplomskih radova iz područja automatike (industrijski procesi, automatizacija postrojenja, upravljanje strojevima, PLC i HMI/SCADA aplikacije, fiel', 'https://stup.ferit.hr/2018/12/03/ponuda-zavrsnih-i-diplomskih-radova-iz-podrucja-automatike-2/', '87006187287');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('23', 'Diplomski radovi &#8211; MPEG DASH (2 teme)', 'Telemetrija obuhvata slijedeće:
+1 Energetska šema
+2 Komunikacije (kroz energetski kabel, WiFi, LAN)
+3 Podešavanje parametara na terenu
+4 Puštenje u rad
+Ova tema rada je operativna od 15.05.2018. do 25.06.2018.
+&nbsp;', 'https://stup.ferit.hr/2018/05/15/telemetrija-vodovod/', '87006187287');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('24', 'Diplomski radovi – AMV Grabber teme (8 tema)', 'Telemetrija obuhvata slijedeće:
+1 Energetska šema
+2 Komunikacije (kroz energetski kabel, WiFi, LAN)
+3 Podešavanje parametara na terenu
+4 Puštenje u rad
+Ova tema rada je operativna od 15.05.2018. do 25.06.2018.
+&nbsp;', 'https://stup.ferit.hr/2018/05/15/telemetrija-vodovod/', '87006187287');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('25', 'Tema diplomskog rada: Utjecaj kvalitete napona na uređaje zaštite u distributivnim mrežama 10 kV', 'Utjecaj kvalitete napona na uređaje zaštite u distributivnim mrežama 10 kV
+&nbsp;
+Kvaliteta napona je jedan od značajki koje se ODS mora pridržavati pri isporuci el. en. svojim potrošačima. Regulacija kvalitete napona jedan je od uvjeta priključka izvora ', 'https://stup.ferit.hr/2018/01/31/tema-diplomskog-rada-utjecaj-kvalitete-napona-na-uredaje-zastite-u-distributivnim-mrezama-10-kv/', '95494259952');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('26', 'Diplomski radovi &#8211; ADAS teme (7 tema)', 'Utjecaj kvalitete napona na uređaje zaštite u distributivnim mrežama 10 kV
+&nbsp;
+Kvaliteta napona je jedan od značajki koje se ODS mora pridržavati pri isporuci el. en. svojim potrošačima. Regulacija kvalitete napona jedan je od uvjeta priključka izvora ', 'https://stup.ferit.hr/2018/01/31/tema-diplomskog-rada-utjecaj-kvalitete-napona-na-uredaje-zastite-u-distributivnim-mrezama-10-kv/', '87006187287');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('27', 'IN2 Diplomski rad', 'Utjecaj kvalitete napona na uređaje zaštite u distributivnim mrežama 10 kV
+&nbsp;
+Kvaliteta napona je jedan od značajki koje se ODS mora pridržavati pri isporuci el. en. svojim potrošačima. Regulacija kvalitete napona jedan je od uvjeta priključka izvora ', 'https://stup.ferit.hr/2018/01/31/tema-diplomskog-rada-utjecaj-kvalitete-napona-na-uredaje-zastite-u-distributivnim-mrezama-10-kv/', '68195665956');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('28', 'Teme &#8211; HOPS', 'Utjecaj kvalitete napona na uređaje zaštite u distributivnim mrežama 10 kV
+&nbsp;
+Kvaliteta napona je jedan od značajki koje se ODS mora pridržavati pri isporuci el. en. svojim potrošačima. Regulacija kvalitete napona jedan je od uvjeta priključka izvora ', 'https://stup.ferit.hr/2018/01/31/tema-diplomskog-rada-utjecaj-kvalitete-napona-na-uredaje-zastite-u-distributivnim-mrezama-10-kv/', '95494259952');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('29', 'ZAVRŠNI RAD', 'Tema 1: Detekcija objekata ispred vozila pomoću kamere na prednjoj strani vozila
+Trendovi u automobilskoj industriji znatno su se promijenili u posljednjih desetak godina. Autonomna vozila postaju svakodnevica, a razina autonomije samih vozila iz dana u d', 'https://stup.ferit.hr/2018/01/31/diplomski-radovi-adas-teme/', '46830600751');
+INSERT INTO diplomski_radovi (id, name, text, link, oib) VALUES ('30', 'Popis tema završnih i diplomskih radova', 'Tema 1: Detekcija objekata ispred vozila pomoću kamere na prednjoj strani vozila
+Trendovi u automobilskoj industriji znatno su se promijenili u posljednjih desetak godina. Autonomna vozila postaju svakodnevica, a razina autonomije samih vozila iz dana u d', 'https://stup.ferit.hr/2018/01/31/diplomski-radovi-adas-teme/', '53943536946');
